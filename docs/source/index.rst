@@ -14,3 +14,4 @@ Contents
 
    introduction
    uniforms
+   riders_surcoat
