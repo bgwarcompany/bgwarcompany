@@ -14,3 +14,4 @@ Contents
 
    introduction
    riders_surcoat
+   tabard
