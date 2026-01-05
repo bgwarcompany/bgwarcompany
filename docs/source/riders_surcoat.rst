@@ -7,6 +7,7 @@ Rider's Surcoat
    :figclass: align-center
    :align: center
    :scale: 60 %
+   Diagram of the rider's surcoat
 
 The rider's surcoat is popular with chivalric fighters and is designed so that it can be comfortably worn over armor. 
 This design is a basic sleeveless surcoat, with a rider's slit up the front and back.
@@ -21,6 +22,7 @@ The barony runs periodic sewing days where we assembly-line these coats so that 
    :figclass: align-center
    :align: center
    :scale: 60 %
+   Diagram of the rider's surcoat showing the positioning of the stars and stripes
 
 #############
 Supply list:
@@ -52,6 +54,7 @@ Build right side panel
    :figclass: align-center
    :align: center
    :scale: 60 %
+   Diagram of the (right) star panel of the rider's surcoat
 
 1. Cut a right side panel in gold linen for the front and one for the back (two panels, both right side).  
 2. Serge or zigzag the edges
@@ -73,6 +76,7 @@ Build six halberd stripes
    :figclass: align-center
    :align: center
    :scale: 60 %
+   Diagram of the stripe with halberd
 
 1. Iron black linen to your fusible and cut 6 stripes that are 4 inches wide and long enough to cover the diagonal of your surcoat pattern.  I know that they will be visually diagonal, but I recommend cutting the stripes on the grain so that they don't wiggle while you sew.  
 2. Iron gold linen to your fusible and cut six halberds with shafts long enough to reach the end of your stripes.
@@ -89,6 +93,7 @@ Build left side panel
    :figclass: align-center
    :align: center
    :scale: 60 %
+   Diagram of the (left) stripe panel of the rider's surcoat
 
 1. Cut a left panel in white linen for the front and one for the back (2 panels, both left side).  
 2. Serge or zigzag the edges
@@ -107,6 +112,7 @@ Assemble the front and back
    :figclass: align-center
    :align: center
    :scale: 60 %
+   Diagram of the split seam on the front and back panels
 
 1. Pin front panels together and back panels together. 
 2. Mark the top of the riders slit.
