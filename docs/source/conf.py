@@ -35,7 +35,7 @@ html_context = {
   'display_github': True,
   'github_user': 'bgwarcompany',
   'github_repo': 'bgwarcompany',
-  'github_version': 'master/docs/'
+  'github_version': 'master/docs/source/'
 }
 
 # -- Options for EPUB output
