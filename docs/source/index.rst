@@ -13,5 +13,4 @@ Contents
 .. toctree::
 
    introduction
-   uniforms
    riders_surcoat
