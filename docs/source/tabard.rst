@@ -62,10 +62,10 @@ Build right side panel
 2. Serge or zigzag the edges
 3. Iron black linen to your fusible and cut out 4 stars
 4. Iron down your stars on each panel
-     - 2 stars per panel
-     - Place stars 2 inches from the left center line
-     - Place first star at the center chest, alighend with your armpit
-     - Evenly space stars in a vertical line
+     * 2 stars per panel
+     * Place stars 2 inches from the left center line
+     * Place first star at the center chest, alighend with your armpit
+     * Evenly space stars in a vertical line
 5. Machine applique satin stitch the stars with the black thread.
 
 ************************
@@ -103,8 +103,8 @@ Build left side panel
 1. Cut a left panel in white linen for the front and one for the back (2 panels, both left side).  
 2. Serge or zigzag the edges
 3. Iron down your completed halberd stripes
-     - The bottom stripe is set at a 45 degree angle from the bottom left corner of the panel
-     - Add each next halberd stripe to be parallel to the lower stripe at 4 inches above the bottom stripe
+     * The bottom stripe is set at a 45 degree angle from the bottom left corner of the panel
+     * Add each next halberd stripe to be parallel to the lower stripe at 4 inches above the bottom stripe
 4. Machine applique satin stitch the stripes down with the black thread
 
 *********************
@@ -126,10 +126,10 @@ Sleeves
 4. Machine applique satin stitch the stars with the black thread.
 
 To assemble the sleeves we are going to "bag" them. 
-  - First, pin the gold sleeve to the white sleeve with the star facing inside.  
-  - Sew almost all the way around the sleeve, but leave a gap about 3 inches wide.  It's easiest if you leave the gap along the straight line on the bottom. 
-  - Turn the sleeve inside out.  Carefully push the edges out flat and iron them down.  You can use a chopstick or a ruler if you need help pushing the edges out flat.  Iron the sleeve so that it is flat and the edges are smooth. 
-  - Next top stitch along the edges, being careful to secure the gap at the bottom.  In your sewing machine, put gold thread on top and white thread on the bottom. 
+  * First, pin the gold sleeve to the white sleeve with the star facing inside.  
+  * Sew almost all the way around the sleeve, but leave a gap about 3 inches wide.  It's easiest if you leave the gap along the straight line on the bottom. 
+  * Turn the sleeve inside out.  Carefully push the edges out flat and iron them down.  You can use a chopstick or a ruler if you need help pushing the edges out flat.  Iron the sleeve so that it is flat and the edges are smooth. 
+  * Next top stitch along the edges, being careful to secure the gap at the bottom.  In your sewing machine, put gold thread on top and white thread on the bottom. 
 
 ********************
 Body assembly
@@ -151,7 +151,7 @@ Body assembly
 5. Add bias tape to the neck and then along all the edges of the tabard.  This reinforces areas of high stress and is pretty.  
 
 ********************
-Attache sleeves
+Attach sleeves
 ********************
 
 .. figure:: ../images/tabard_assembly.svg
