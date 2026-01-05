@@ -30,17 +30,6 @@ templates_path = ['_templates']
 # -- Options for HTML output
 
 html_theme = 'sphinx_rtd_theme'
-# Source - https://stackoverflow.com/a
-# Posted by Michael Altfield, modified by community. See post 'Timeline' for change history
-# Retrieved 2026-01-04, License - CC BY-SA 4.0
-
-html_context = {
-  'display_github': True,
-  'github_user': 'buskill',
-  'github_repo': 'buskill-app',
-  'github_version': 'master/docs/',
-}
-
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
