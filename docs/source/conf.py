@@ -34,7 +34,7 @@ html_theme = 'sphinx_rtd_theme'
 html_context = {
   'display_github': True,
   'github_repo': 'bgwarcompany',
-  'github_version': 'master'
+  'github_version': 'master/docs/'
 }
 
 # -- Options for EPUB output
